@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi there 👋 Welcome to Yuki Kume's Repository Collection
 
-<!--
+This repository holds all public repositories from all three of my active accounts.
 
-**Here are some ideas to get you started:**
+**[@UnciaBit](https://github.com/UnciaBit/)**: Most public projects would be developed and released through this account
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**[@WrenHainsworth](https://github.com/WrenHainsworth/)**: Some older projects are developed and released here. Most of the projects in this project are private and is used mostly for experiments
+
+**[@YukiKume](https://github.com/YukiKume/)**: Legacy account - oldest account currently active. Almost all projects in this account are private
